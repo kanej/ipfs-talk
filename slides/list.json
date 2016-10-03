@@ -1,4 +1,17 @@
 [
-    "index.md",
-    "further-details.html"
+    "splash.md",
+    "about_me.md",
+    "exeter_clojurians.md",
+    {
+        "filename": "saving_the_web.md",
+        "attr": {
+            "data-background": "#fff"
+        }
+    },
+    {
+        "filename": "successes_ranked.md",
+        "attr": {
+            "data-background": "#fff"
+        }
+    }
 ]
