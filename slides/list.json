@@ -13,5 +13,27 @@
         "attr": {
             "data-background": "#fff"
         }
-    }
+    },
+    {
+        "filename": "osi-model.md",
+        "attr": {
+            "data-background": "#fff"
+        }
+    },
+    "http-request.md",
+    "so-whats-the-problem.md",
+    "bandwidth.md",
+    "dead-links.md",
+    "censorship.md",
+    "the-distributed-web.md",
+    "ipfs.md",
+    "ipfs-authors.md",
+    "bittorrent.md",
+    "git.md",
+    "webpage-demo.md",
+    "dynamic-websites.md",
+    "merkle-dag.md",
+    "permatwitter.md",
+    "permatwitter-demo.md",
+    "links.md"
 ]
