@@ -1,5 +1,5 @@
 
-![alt text](/resources/successes_ranked.png "Logo Title Text 1")
+![alt text](./resources/successes_ranked.png "Logo Title Text 1")
 
 note:
     Connections 3.5 billion people across the world

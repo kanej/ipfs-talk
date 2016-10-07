@@ -15,19 +15,42 @@
                 "data-background": "#fff"
             }
         },
-        "computers-and-cables.md",
+        {
+            "filename": "computers-and-cables.md",
+            "attr": {
+                "data-background": "#fff"
+            }
+        },
         {
             "filename": "osi-model.md",
             "attr": {
                 "data-background": "#fff"
             }
         },
-        "http-request.md"
+        {
+            "filename": "tcpip.md",
+            "attr": {
+                "data-background": "#fff"
+            }
+        }
     ],
     [
         "so-whats-the-problem.md",
         "bandwidth.md",
+        {
+            "attr": {
+                "data-background": "./resources/random_graph.jpg"
+            }
+        },
+        {
+            "attr": {
+                "data-background": "./resources/twitter_graph.jpg"
+            }
+        },
         "dead-links.md",
+        "cool-uris-dont-change.md",
+        "bus.md",
+        "leftpad.html",
         "censorship.md"
     ],
     [

@@ -1,1 +1,1 @@
-![alt text](/resources/kilt.jpg "About Me")
+![alt text](./resources/kilt_wedding.jpg "About Me")
