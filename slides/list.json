@@ -51,7 +51,10 @@
         "cool-uris-dont-change.md",
         "bus.md",
         "leftpad.html",
-        "censorship.md"
+        "censorship.md",
+        "http-request.md",
+        "blocked.md",
+        "issue.md"
     ],
     [
         "the-distributed-web.md",
