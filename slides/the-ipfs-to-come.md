@@ -1,4 +1,4 @@
 ##  The IPFS to come
 
-* PUBSUB - A better IPNS
+* PUBSUB
 * JS IPFS

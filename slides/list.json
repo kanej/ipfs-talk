@@ -67,15 +67,24 @@
             }
         },
         "dealing-with-problems.md",
+        "bandwidth.md",
         "bittorrent.md",
+        "torrent-in.md",
+        "torrent-out.md",
+        "dead-links.md",
+        "git1.md",
         "git.md",
-        "webpage-demo.md"
+        "git2.md",
+        "git3.md",
+        "git4.md",
+        "webpage-demo.md",
+        "censorship.md",
+        "blocked.md"
     ],
     [
         "dynamic-websites.md",
         "merkle-dag.md",
-        "permatwitter.md",
-        "permatwitter-demo.md"
+        "permatwitter.md"
     ],
     [
         "sum-up.md",
